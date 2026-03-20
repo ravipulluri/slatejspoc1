@@ -1,0 +1,5 @@
+{
+  "name": "SlateJS JSON Table Renderer",
+  "description": "A React application integrated with SlateJS to render complex nested JSON data into editable rich text tables.",
+  "requestFramePermissions": []
+}
